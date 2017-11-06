@@ -1,0 +1,9 @@
+﻿  Laba2.cpp
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(179): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(203): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(236): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(348): warning C4018: <: несоответствие типов со знаком и без знака
+d:\program\parallelprograming\laba2\laba2\laba2.cpp(360): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba2.vcxproj -> D:\Program\ParallelPrograming\Laba2\Debug\Laba2.exe
